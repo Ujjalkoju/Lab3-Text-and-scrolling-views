@@ -1,3 +1,4 @@
 # Lab3(Text and scrolling views)
-### Task1
-![](./ScrollingText.jpg)
+### Task3
+![](./Scroll1Task3.jpg)
+![](./Scroll2Task3.jpg)
